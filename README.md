@@ -1,5 +1,9 @@
 # ARDiceRoll 
-This is the course project for the course AI4104.
+This is the course project for the course AI4104. 
+
+Demo Video:
+https://drive.google.com/file/d/13Hmaz2JERBfxw2lBqw5zvXg5f33M_Y-y/view?usp=sharing
+
 
 Use Case:
 AR Dice Roll utilizes Apple's SceneKit and ARKit frameworks and enables users to position multiple six-sided dice on their surroundings.
