@@ -13,8 +13,11 @@ Efficient Management:
 Incorporates a convenient bin icon for streamlined dice management. Users can easily delete all placed dice with a single click, facilitating a clean slate for a new game. Additionally, the option to re-roll all the dice is available, ensuring a quick and hassle-free gameplay reset. 
 
 To use the app:
+
 Step-1: Download the provided files.
+
 Step-2: Load the app onto your AR-enabled iDevice.
+
 Step-3: Dive into the immersive world of augmented reality and explore the interactive features by placing and rolling six-sided dice in your surroundings. 
 
 
